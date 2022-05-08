@@ -1,1 +1,2 @@
 # Mission-to-Mars
+Web scraping is significant on allowing quick and efficient extraction of data from different sources in order to later on have data be processed to deliver insights. Doing this may result in discussing the brand or the reputation of a particular company. The goal of this project involved using BeautifulSoup and Splinter to scrape information from a website, to store the scraped data using Mongo database, to use web application on displaying the data, and to alter the design of the web app. 
